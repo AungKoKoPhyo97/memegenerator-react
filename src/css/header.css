@@ -1,0 +1,18 @@
+nav {
+  display: flex;
+  height: 100px;
+  background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
+  align-items: center;
+}
+.nav_img {
+  width: 70px;
+  height: 70px;
+  margin-left: 50px;
+  object-fit: contain;
+}
+.nav_title {
+  margin-left: 30px;
+  font-size: 30px;
+  letter-spacing: 2px;
+  color: white;
+}
